@@ -1,0 +1,11 @@
+.output-area {
+  min-height: 150px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-y: auto;
+  max-height: 300px;
+}
+
+.card {
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
